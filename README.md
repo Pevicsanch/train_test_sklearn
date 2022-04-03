@@ -1,7 +1,7 @@
 # Train -Test with sklearn
 ## IT Academy - Data Science Itinerary: Training set and testing set
 
-*S09-T01: Practicing Training set and testing set scikit-learn*
+*S09-T01: Practicing Training set and testing set with scikit-learn*
 
 A introduction to data pre-procesing and scientific programming with scikit-learn.
 
