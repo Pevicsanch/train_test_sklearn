@@ -15,3 +15,5 @@ Learning objetives:
 + data transformation
 + dummy Variables
 + Training set and testing set
+
+to see the notebook clic this [link](https://pevicsanch.github.io/train_test_sklearn/s09_t01_train_test.html)
